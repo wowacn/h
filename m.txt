@@ -1,33 +1,6 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-
-
-## spider
-# 00.官方jar
-# TG (猫影视TV渡口🛳, 不定期开放邀请链接 ) --> https://t.me/catvodtv_offical
-//"spider": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/custom_spider.txt",
-
-# 01.🐼 (非官方) 缝合jar
-//"spider":"https://raw.fastgit.org/YuanHsing/OneClickRun/master/MeowXP/custom_spider.jar",
-
-# 02.🦖 (非官方) 唐三大佬维护接口:
-# Github --> https://github.com/Tangsan99999/Tangsan99999.github.io
-//"spider":"https://raw.fastgit.org/Tangsan99999/Tangsan99999.github.io/master/custom_spider.jar",
-
-# 03.🥒 (非官方) 小黄瓜大佬 XBiubiuLA.jar:
-# Github --> https://github.com/lite-cucumber/
-# 套Biubiu+LiteApple+Kuaikan规则
-"spider":"https://raw.fastgit.org/YuanHsing/OneClickRun/master/MeowXB/XBiubiuLA3.jar",
-
-
-# 直播
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL1l1YW5Ic2luZy9mcmVlZC9yYXcvbWFzdGVyL3R2L2xpdmUudHh0"]}]}],
-
-
 "sites":[
-
-#
-#18+
 {"key":"*523资源","name":"*523资源","type":1,"api":"https://caiji.523zyw.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
 {"key":"*丝袜资源","name":"*丝袜资源","type":1,"api":"https://siwazyw.cc/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*芒果资源","name":"*芒果资源","type":1,"api":"https://mgzyz1.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
